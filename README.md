@@ -1,2 +1,2 @@
 # Girls-Who-Code
-Stuff that was made in Girls Who Code
+Stuff that I made in Girls Who Code
